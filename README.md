@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Memory-Game.git
+   git clone https://github.com/TranKienCuong2003/Memory-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
